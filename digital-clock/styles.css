@@ -1,0 +1,30 @@
+body {
+    background-image: url('background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* makes the background stay in place when scrolling. */
+    margin: 0;
+    font-size: 3em;
+}
+
+#clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    height: 100vh;
+    /* for viewport height. */  
+}
+#clock {
+    font-family: monospace;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    backdrop-filter: blur(10px);
+    width: 100%;
+    background-color:hsla(0, 0%, 76%, 0.266);
+    
+}

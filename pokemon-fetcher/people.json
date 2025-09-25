@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Spongebob",
+        "age": 34,
+        "city": "Seattle",
+        "hobbies": ["jellyfishing", "karate", "blowing bubbles"]
+    },
+    {
+        "name": "Patrick",
+        "age": 33,
+        "city": "Seattle",
+        "hobbies": ["rock collecting", "eating", "napping"]
+    },
+    {
+        "name": "Sandy",
+        "age": 32,
+        "city": "Houston",
+        "hobbies": ["science", "karate", "surfing"]
+    },
+    {
+        "name": "Mr. Krabs",
+        "age": 55,
+        "city": "Seattle",
+        "hobbies": ["money", "business", "cooking"]
+    },
+    {
+        "name": "Squidward",
+        "age": 40,
+        "city": "Seattle",
+        "hobbies": ["playing clarinet", "painting", "napping"]
+    }
+]
